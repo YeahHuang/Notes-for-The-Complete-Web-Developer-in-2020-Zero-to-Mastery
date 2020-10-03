@@ -1,0 +1,27 @@
+This is my learning notes for the section 18 https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8750146#announcements
+
+1. NPM package: contains package.json + js file
+
+    NPM: node package manager, created for node but not for browser
+
+    1. Html + css + js
+    2. github repo + git
+    3. package.json
+        - scripts, could include "start", "test", "build"
+        e.g. “build"： “browserify script.js > bundle.js && livebrowser" 那么在命令行里运行 npm run build就可以运行livebrowser了
+
+2. Public reusable NPM packages:
+    lodash:  extend javascrypt 
+    browserify. e.g. browserify script.js > bundle.js
+    live-server: lively detect change and show in chrome    （install -g so that it could run in templates
+
+3.Remember to update the version: 
+    e.g. Github link for robofriends' package.json https://github.com/aneagoie/robofriends/commit/9348f5f91755e6dbdeb2a6629ffb06c96a1827da
+
+4. Useful links regarding simplefolio:
+    hatchful.shopify.com: free logo maker website
+    Github link for simplefolio: https://github.com/cobidev/simplefolio
+    style/abstracts/_variable.scss,  UI Gradients  https://uigradients.com/#BrightVault 可以用渐变做一个notes 选择primary color/secondary color 这样banner都是渐变的 超美
+    icon library: https://fontawesome.com/v4.7.0/icons/
+
+
