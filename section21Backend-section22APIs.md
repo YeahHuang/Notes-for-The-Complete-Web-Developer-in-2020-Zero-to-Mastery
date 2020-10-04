@@ -21,8 +21,12 @@ componentDidAmount(){
 ```
 
 star wars api(if you want to practice fetch in NodeJS): http://swapi.py4e.com/
+
 Stripe API: if you want to involve payment 
-twilio.com/docs/api/messaging/send-messages API: if you want to send msg to phone
+ if you want to send msg to phone: twilio.com/docs/api/messaging/send-messages API:
+ 
 IBM Watson Speech to Text API: https://www.ibm.com/watson/services/speech-to-text/
+
     Code examples using that API: https://github.com/zero-to-mastery/Coding_Challenge-3
+    
 Public API resources: https://public-apis.xyz
