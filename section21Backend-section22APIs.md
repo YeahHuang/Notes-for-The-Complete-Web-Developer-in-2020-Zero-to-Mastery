@@ -12,13 +12,13 @@ Looks like waiter in the canteen
 jsonplaceholder.typical.
 json response for API: 方便business wellness， 
 
-'''
+```
 componentDidAmount(){
     fetch('https://jsonplaceholder.typicode.com/users')
     .then(response => response.json())
     .then(users => {this.setState({ sobots: users })});
 }
-'''
+```
 
 star wars api(if you want to practice fetch in NodeJS): http://swapi.py4e.com/
 Stripe API: if you want to involve payment 
