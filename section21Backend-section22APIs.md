@@ -12,7 +12,7 @@ Looks like waiter in the canteen
 jsonplaceholder.typical.
 json response for API: 方便business wellness， 
 
-''
+'''
 componentDidAmount(){
     fetch('https://jsonplaceholder.typicode.com/users')
     .then(response => response.json())
