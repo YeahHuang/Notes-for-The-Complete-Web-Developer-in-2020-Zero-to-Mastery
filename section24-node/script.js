@@ -1,3 +1,5 @@
+import largeNumber from 'script2.js'
+
 const a = 4;
 const b = 5;
 
