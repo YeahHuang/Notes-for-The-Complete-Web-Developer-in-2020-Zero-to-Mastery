@@ -1,0 +1,23 @@
+This is my learning notes for the section 24: Node.js + Express.js
+Link: https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8817364#announcements
+
+NodeJS, Js for server
+
+It should be similar to js
+e.g. running node in command line- 
+
+MacBook-Air:Notes4WebDeveloper huangxiao$ node
+Welcome to Node.js v12.18.4.
+Type ".help" for more information.
+> 4+5
+9
+> boolean(1)
+Uncaught ReferenceError: boolean is not defined
+> Boolean(1)
+true
+> console.log(hi)
+Uncaught ReferenceError: hi is not defined
+> console.log("hi")
+hi
+
+Jonny-Five: build a robot just using Javascript
